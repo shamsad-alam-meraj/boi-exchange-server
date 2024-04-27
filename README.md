@@ -8,7 +8,7 @@ Boi Exchange is a comprehensive book management system designed to facilitate bo
 - Librarian Tools: Librarians are empowered to efficiently add or remove books from the system, maintaining an updated catalog for users to explore.
 
 ### Client Side Repository
-GitHub Client-Side: Explore the server-side code repository on [GitHub](https://github.com/shamsad-alam-meraj/boi-exchange-client).
+GitHub Client-Side: Explore the client-side code repository on [GitHub](https://github.com/shamsad-alam-meraj/boi-exchange-client).
 
 ### Live Demo
 Experience Boi Exchange firsthand by checking out the live demo [here](https://boi-exchange-web.web.app/). Explore its features and functionalities to see how it can revolutionize book management and sharing.
